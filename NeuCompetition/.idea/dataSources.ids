@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - laravel@localhost" uuid="cb92d577-cc64-4952-be7e-ae090de1161c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="MySQL - NeuCompetition@localhost" uuid="e4ea58b5-fbc9-4a2b-8525-61dd827ec8c0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
